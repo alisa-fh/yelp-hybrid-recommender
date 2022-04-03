@@ -26,6 +26,8 @@ Want to test with an existing user? Try being James - with user-id: "BGKBgJCk-qy
 Need some example restaurants? Try "Banzai Sushi"
 Want to test a chain restaurant? Try "Domino's Pizza"
 
+[Read the final report here](./IEEE%20Report.pdf)
+
 ## Implementation references:
 [Understanding word stemming and pre-processing](https://www.kdnuggets.com/2020/08/content-based-recommendation-system-word-embeddings.html)
 
